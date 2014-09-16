@@ -1,4 +1,6 @@
-package com.cmn397.sharedservices;
+package com.cmn397.androidsharedservices;
+
+import com.cmn397.androidsharedservices.R;
 
 import android.app.Fragment;
 
